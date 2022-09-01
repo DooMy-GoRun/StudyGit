@@ -38,6 +38,10 @@
     {
       "ItemId": "00d2dd0e-be62-4372-a151-ac6a5d3900ca",
       "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "a8c779bf-d137-4f1e-b912-234d66c807c1",
+      "PreviousItemId": "00d2dd0e-be62-4372-a151-ac6a5d3900ca"
     }
   ],
   "IconResourcesKeys": [],
